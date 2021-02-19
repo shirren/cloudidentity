@@ -31,7 +31,7 @@
     "express-session": "^1.15.6",
     "helmet": "^4.4.1",
     "moment": "^2.21.0",
-    "mongoose": "^4.13.11",
+    "mongoose": "^5.7.5",
     "mongoose-error-helper": "0.0.2",
     "mongoose-schema-extend": "^0.2.2",
     "mongoose-slug-generator": "^1.0.4",
